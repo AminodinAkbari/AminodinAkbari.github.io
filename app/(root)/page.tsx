@@ -43,7 +43,7 @@ export default function IndexPage() {
     name: siteConfig.authorName,
     url: siteConfig.url,
     image: siteConfig.ogImage,
-    jobTitle: "Applied AI Engineer",
+    jobTitle: "Backend-first Full-Stack Developer",
     sameAs: [siteConfig.links.github, siteConfig.links.twitter],
   };
 
@@ -105,7 +105,7 @@ export default function IndexPage() {
               delay={0.4}
               className="font-heading text-base sm:text-xl md:text-xl lg:text-2xl"
             >
-              Applied AI Engineer
+              Backend-first Full-Stack Developer
             </AnimatedText>
             <div className="mt-4 max-w-[42rem] text-center">
               <p className="leading-normal text-muted-foreground text-sm sm:text-base">

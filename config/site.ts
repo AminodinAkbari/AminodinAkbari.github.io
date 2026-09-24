@@ -1,9 +1,9 @@
 export const siteConfig = {
-  name: "Amin Akbari - Applied AI Engineer",
+  name: "Amin Akbari - Backend-first Full-Stack Developer",
   authorName: "Amin Akbari",
   username: "namanbarkiya",
   description:
-    "Amin Akbari - Applied AI Engineer working at the intersection of AI, data, and scalable software systems. Explore my projects, experience, and contributions in software development and AI.",
+    "Amin Akbari - Software engineer working at the intersection of AI, data, and scalable software systems.",
   url: "https://nbarkiya.xyz",
   links: {
     twitter: "https://x.com/namanbarkiya",
@@ -18,7 +18,7 @@ export const siteConfig = {
     "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357294/assets/naman-logo.png",
   keywords: [
     "Amin Akbari",
-    "Applied AI Engineer",
+    "Backend first Full-Stack Developer",
     "AI Engineer",
     "Software Engineer",
     "Full Stack Developer",
