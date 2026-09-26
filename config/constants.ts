@@ -60,7 +60,24 @@ export type ValidSkills =
   | "FastAPI"
   | "SQL"
   | "NoSQL"
-  | "Framer Motion";
+  | "Framer Motion"
+  | "Stripe"
+  | "JWT"
+  | "Linux"
+  | "OpenRouter"
+  | "Gemini"
+  | "SQLAlchemy"
+  | "SearXNG"
+  | "Jinja2"
+  | "Celery"
+  | "Django REST Framework"
+  | "Vite"
+  | "SimpleJWT"
+  | "Axios"
+  | "Gunicorn"
+  | "Bleach"
+  | "Pillow"
+  | "django-filter"
 
 export type ValidCategory =
   | "Full Stack"
@@ -69,7 +86,9 @@ export type ValidCategory =
   | "UI/UX"
   | "Web Dev"
   | "Mobile Dev"
-  | "3D Modeling";
+  | "3D Modeling"
+  | "NLP"
+  | "AI"
 
 export type ValidExpType = "Personal" | "Professional";
 
