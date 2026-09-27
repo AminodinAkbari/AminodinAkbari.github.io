@@ -18,7 +18,7 @@ export interface ProjectInterface {
   category: ValidCategory[];
   shortDescription: string;
   websiteLink?: string;
-  githubLink?: string | string[];
+  githubLink?: string;
   techStack: ValidSkills[];
   startDate: Date;
   endDate?: Date;
