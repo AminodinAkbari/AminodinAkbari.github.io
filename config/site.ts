@@ -4,7 +4,7 @@ export const siteConfig = {
   username: "namanbarkiya",
   description:
     "Amin Akbari - Software engineer working at the intersection of AI, data, and scalable software systems.",
-  url: "https://nbarkiya.xyz",
+  url: "https://aminodin.ir",
   links: {
     twitter: "",
     github: "https://github.com/AminodinAkbari/",
