@@ -11,7 +11,7 @@ export const siteConfig = {
     templateRepo: "https://github.com/AminodinAkbari/nextjs-portfolio",
   },
   ogImage:
-    "/public/opengraph-image.png",
+    "/app/opengraph-image.png",
   iconIco:
     "/public/fav.ico",
   logoIcon:
